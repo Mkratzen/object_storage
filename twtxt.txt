@@ -1,1 +1,6 @@
+# url = https://raw.githubusercontent.com/Mkratzen/object_storage/main/twtxt.txt
+# avatar = https://gitlab.com/zenberg/etc_stuff/-/raw/f24f2e8daac87b7098e9b76909c587057b51d458/Social/mklogo-s.png
+# description = Thoughts and Things
+# link = https://berg.mobilecourant.org
+# client = twtxt-app/0.1
 
