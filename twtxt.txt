@@ -3,4 +3,6 @@
 # description = Thoughts and Things
 # link = https://berg.mobilecourant.org
 # client = twtxt-app/0.1
+# follow = yarn_police https://twtxt.net/user/yarn_police/twtxt.txt
+# following = 1
 
