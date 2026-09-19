@@ -4,6 +4,8 @@
 # link = https://berg.mobilecourant.org
 # client = twtxt-app/0.1
 # follow = anth http://a.9srv.net/tw.txt
+# follow = klaxzy https://klaxzy.net/etc/twtxt.txt
 # follow = yarn_police https://twtxt.net/user/yarn_police/twtxt.txt
-# following = 2
+# following = 3
 
+2026-09-19T00:05:27Z	Neat.
