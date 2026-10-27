@@ -26,7 +26,7 @@ WHILE pit2$ = player$ OR pit2$ = bat1$ OR pit2$ = bat2$ OR pit2$ = wumpu$ OR pit
 WEND
 
 
-' Hunt the Wumpus - learning version
+' Hunt the Wumpus
 DIM tunnel$
 tunnel$(1, 1) = 2
 tunnel$(1, 2) = 5
